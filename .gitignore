@@ -1,0 +1,8 @@
+*.asv
+*.slxc
+slprj/
+*.avi
+matlab/figures/
+matlab/animation/
+matlab/*.mat
+__pycache__/
